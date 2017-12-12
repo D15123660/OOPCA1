@@ -3,4 +3,4 @@ My project is about a simple Solar system in a 3D version. Sun is in the middle 
 # Brief
 I saw the galaxy OOPCA1 from last year. Think it is pretty cool. So i decided to do a Solar system. It is hard at start but when you finished what you have done, may just think that is so easy. I think my best part of my CA is the rotation and translation. use push and pop matrix to go back starting point each time and i searched the number of distance and volume to make sure it looks like the real Solar system. I also used some image to cover each planet with shape.
 # Video
-<a href="https://youtu.be/6l73ImJRvqQ" target="_blank"><img src="https://youtu.be/6l73ImJRvqQ" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="https://youtu.be/6l73ImJRvqQ" target="_blank"><img src="https://youtu.be/6l73ImJRvqQ" alt="Video" width="240" height="180" border="10" /></a>
